@@ -1,5 +1,7 @@
 venv/
 idea/
+.ipynb_checkpoints/
+cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
